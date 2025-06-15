@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">tsc</span></h1>
+<h3 align="center">🇨🇿 Czech | 💻 Developer</h3>
 
-<!--
-**yotsc/yotsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4290FF&center=true&vCenter=true&width=435&lines=The+languages+I+know;JavaScript+%7C+Lua+%7C+Python+%7C+HTML+%7C+CSS;I+%F0%9F%A9%B5+Clean+Code" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 👋 I'm **tsc**  
+- 📍 From **Czechia 🇨🇿**
+- 💻 Focused on web & game development  
+- 🌱 Currently learning **C++**
+
+---
+
+### 💻 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Lua-333?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+</p>
+
+---
+
+### 📽️ My Projects
+
+| Project | Description | Language |
+|--------|-------------|----------|
+| Discord Bot | Custom Discord bot with ticket system and 10+ commands | JS |
+| FiveM Unit Check | Optimized unit check script with sounds and animations | JS |
