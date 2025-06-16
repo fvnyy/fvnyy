@@ -29,9 +29,29 @@
 
 ---
 
-### 📽️ My Projects
+<h3 align="center">📽️ My Projects</h3>
 
-| Project | Description | Language |
-|--------|-------------|----------|
-| Discord Bot | Custom Discord bot with ticket system and 10+ commands | JS |
-| FiveM Unit Check | Optimized unit check script with sounds and animations | JS |
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Language</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Discord Bot</td>
+        <td>Custom Discord bot with ticket system and 10+ commands</td>
+        <td>JS</td>
+      </tr>
+      <tr>
+        <td>FiveM Unit Check</td>
+        <td>Optimized unit check script with sounds and animations</td>
+        <td>JS</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+
