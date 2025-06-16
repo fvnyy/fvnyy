@@ -2,7 +2,7 @@
 <h3 align="center">🇨🇿 Czech | 💻 Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4290FF&center=true&vCenter=true&width=635&lines=The+languages+I+know;JavaScript+%7C+Lua+%7C+Python+%7C+HTML+%7C+CSS;I+%F0%9F%A9%B5+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4290FF&center=true&vCenter=true&width=1080&lines=The+languages+I+know;JavaScript+%7C+Lua+%7C+Python+%7C+HTML+%7C+CSS;I+%F0%9F%A9%B5+Clean+Code" alt="Typing SVG" />
 </p>
 
 ---
