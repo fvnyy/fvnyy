@@ -31,27 +31,30 @@
 
 <h3 align="center">📽️ My Projects</h3>
 
-<p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Language</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Discord Bot</td>
-        <td>Custom Discord bot with ticket system and 10+ commands</td>
-        <td>JS</td>
-      </tr>
-      <tr>
-        <td>FiveM Unit Check</td>
-        <td>Optimized unit check script with sounds and animations</td>
-        <td>JS</td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Language</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Discord Bot</td>
+      <td>Custom Discord bot with ticket system and 10+ commands</td>
+      <td>JS</td>
+    </tr>
+    <tr>
+      <td>FiveM Unit Check</td>
+      <td>Optimized unit check script with sounds and animations</td>
+      <td>JS</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
