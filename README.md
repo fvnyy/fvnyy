@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">tsc</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#4290FF">qxn</span></h1>
 <h3 align="center">🇨🇿 Czech | 💻 Developer</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 👋 I'm **tsc**  
+- 👋 I'm **qxn**  
 - 📍 From **Czechia 🇨🇿**
 - 💻 Focused on web & game development  
 - 🌱 Currently learning **C++**
